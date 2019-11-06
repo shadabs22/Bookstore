@@ -7,7 +7,7 @@
 </head>
 <body>
 	<center>
-		<h1>Books Manag  ement</h1>
+		<h1>Books Management</h1>
         <h2>
         	<a href="new">Add New Book</a>
         	&nbsp;&nbsp;&nbsp;
